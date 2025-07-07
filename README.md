@@ -1,6 +1,6 @@
 # 🎧 Spotify Clone
 
-A front-end clone of Spotify’s desktop web player built using **HTML**, **CSS**, and **Bootstrap**.
+A front-end clone of Spotify’s desktop web player built using **HTML** and **CSS**.
 
 This project focuses on recreating the layout, look, and feel of the Spotify UI to practice layout design, responsiveness, and styling using only front-end technologies.
 
@@ -16,7 +16,6 @@ This project focuses on recreating the layout, look, and feel of the Spotify UI 
 
 - HTML5  
 - CSS3  
-- Bootstrap 5  
 - Vercel (for deployment)
 
 ---
@@ -43,7 +42,6 @@ This project focuses on recreating the layout, look, and feel of the Spotify UI 
 
 ## 🔧 Future Improvements
 
-- Add a music player section at the bottom
 - Implement interactivity with JavaScript
 - Improve mobile responsiveness further
 - Add animations and hover effects
